@@ -311,13 +311,13 @@ public class Criptoconsola {
 		case "Mac OS X":
 			Path root = Paths.get(System.getProperty("user.dir")).getFileSystem().getRootDirectories().iterator()
 					.next();
-			rutaActual = root.toString() + "Users/user/PSP";
+			rutaActual = root.toString() + "Users/";
 			break;
 
 		case "Linux":
 			Path root2 = Paths.get(System.getProperty("user.dir")).getFileSystem().getRootDirectories().iterator()
 					.next();
-			rutaActual = root2.toString() + "/Users/user";
+			rutaActual = root2.toString() + "/Users/";
 			break;
 		}
 	}
