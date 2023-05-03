@@ -1,5 +1,11 @@
 # CriptoconsoleCypher-CAT
+[![General badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://shields.io/)
+
+
+[![General badge](https://img.shields.io/badge/License-MIT-blue.svg)](https://shields.io/)
+
 ## Encriptador Cèsar en Java
+
 Aquest repositori conté una implementació de l'encriptat Cèsar en Java. L'encriptat Cèsar és una tècnica senzilla de criptografia que es basa en desplaçar 
 cada lletra de l'alfabet un nombre fix de posicions per obtenir el text encriptat.
 
