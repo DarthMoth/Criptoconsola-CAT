@@ -4,7 +4,7 @@
 
 ## Encriptador Cèsar en Java
 
-Aquest repositori conté una implementació de l'encriptat Cèsar en Java. L'encriptat Cèsar és una tècnica senzilla de criptografia que es basa en desplaçar 
+Aquest repositori conté una implementació de l'encriptat Cèsar en Java. L'encriptat Cèsar és una tècnica de criptografia que es basa en desplaçar 
 cada lletra de l'alfabet un nombre fix de posicions per obtenir el text encriptat.
 
 ## Com utilitzar
